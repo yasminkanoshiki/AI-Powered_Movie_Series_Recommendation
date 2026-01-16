@@ -1,0 +1,21 @@
+id,nome,data_nascimento,email,genero_favorito
+1,Ana Silva,1990-05-15,ana.silva@email.com,Ficção Científica
+2,Carlos Oliveira,1985-02-10,carlos.oliveira@email.com,Terror
+3,Mariana Souza,1992-12-25,mariana.souza@email.com,Drama
+4,João Pedro,1998-07-05,joao.pedro@email.com,Ação
+5,Beatriz Santos,1980-01-30,beatriz.santos@email.com,Comédia
+6,Lucas Ferreira,2002-11-20,lucas.ferreira@email.com,Ficção Científica
+7,Fernanda Lima,1995-03-15,fernanda.lima@email.com,Terror
+8,Ricardo Mendes,1982-06-12,ricardo.mendes@email.com,Documentário
+9,Juliana Paes,1988-08-08,juliana.paes@email.com,Animação
+10,Paulo Roberto,1981-12-12,paulo.roberto@email.com,Ação
+11,Camila Duarte,1993-04-22,camila.duarte@email.com,Drama
+12,Bruno Alves,1987-09-14,bruno.alves@email.com,Aventura
+13,Larissa Gomes,1991-01-05,larissa.gomes@email.com,Romance
+14,Rafael Costa,1984-11-30,rafael.costa@email.com,Suspense
+15,Amanda Rocha,1996-07-19,amanda.rocha@email.com,Musical
+16,Diego Martins,1989-03-03,diego.martins@email.com,Policial
+17,Sofia Nuñez,2000-10-10,sofia.nunez@email.com,Fantasia
+18,Gabriel Ramos,1994-02-28,gabriel.ramos@email.com,Guerra
+19,Patrícia Meira,1983-05-17,patricia.meira@email.com,Biografia
+20,Thiago Soares,2008-08-21,thiago.soares@email.com,Western
